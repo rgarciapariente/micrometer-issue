@@ -1,0 +1,8 @@
+management:
+  tracing:
+    baggage:
+      remote-fields:
+        - field1
+      correlation:
+        fields:
+          - field1

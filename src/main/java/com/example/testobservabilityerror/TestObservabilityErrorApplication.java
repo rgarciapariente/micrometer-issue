@@ -1,0 +1,15 @@
+package com.example.testobservabilityerror;
+
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TestObservabilityErrorApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TestObservabilityErrorApplication.class, args);
+	}
+
+
+}
